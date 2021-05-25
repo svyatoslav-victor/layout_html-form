@@ -1,16 +1,16 @@
-form {
+.form {
   margin: 0;
 }
 
-fieldset {
+.field {
   margin: 20px 2px;
 }
 
-fieldset:first-of-type {
+.field:first-of-type {
   margin-top: 0;
 }
 
-fieldset:last-of-type {
+.field:last-of-type {
   margin-bottom: 10px;
 }
 
@@ -26,6 +26,6 @@ fieldset:last-of-type {
   margin-bottom: 0;
 }
 
-button {
+.btn {
   margin: 10px 0;
 }
